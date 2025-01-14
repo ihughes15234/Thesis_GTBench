@@ -1,0 +1,6 @@
+llm_model_path: phi_3_small
+max_tokens: 1024
+timeout: 120
+temperature: 1
+model_type: LLMModel
+nick_name: phi_3_small

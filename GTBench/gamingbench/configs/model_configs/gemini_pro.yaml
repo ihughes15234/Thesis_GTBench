@@ -1,0 +1,6 @@
+llm_model_path: gemini_1_5_pro_002
+max_tokens: 1024
+timeout: 120
+temperature: .2
+model_type: LLMModel
+nick_name: gemini_1_5_pro_002

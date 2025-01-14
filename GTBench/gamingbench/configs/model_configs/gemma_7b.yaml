@@ -1,0 +1,6 @@
+llm_model_path: gemma_7b
+max_tokens: 1024
+timeout: 120
+temperature: 1
+model_type: LLMModel
+nick_name: gemma_7b

@@ -1,0 +1,6 @@
+llm_model_path: llama3_1instruct8b
+max_tokens: 1024
+timeout: 120
+temperature: .1
+model_type: LLMModel
+nick_name: llama3_1instruct8b
