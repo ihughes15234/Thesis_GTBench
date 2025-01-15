@@ -1,4 +1,6 @@
 [comment]: <> (![image]&#40;logo.png&#41;)
+The README below comes from the original GT-Bench paper. The Chat.py, MCTS_agent.py, and the prompt generation for prisoner's dilemma were updated to support the Master's thesis
+
 # GTBench: Uncovering the Strategic Reasoning Limitations of LLMs via Game-Theoretic Evaluations
 - **Authors:** Jinhao Duan*, Renming Zhang*, James Diffenderfer, Bhavya Kailkhura, Lichao Sun, Elias Stengel-Eskin, Mohit Bansal, Tianlong Chen, and Kaidi Xu (*equal contribution)
 - [**arXiv**](https://arxiv.org/abs/2402.12348)
